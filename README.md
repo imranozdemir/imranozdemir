@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm İmran</h1>
-<h3 align="center">A passionate Data Scientist from Turkey</h3>
 
 - 🔭 I’m currently working on **Big Data technologies.**
 
