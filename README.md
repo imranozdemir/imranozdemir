@@ -1,6 +1,2 @@
 ### Hi 👋 I'm İmran 
 
-- 🌱 I’m currently learning Data Science and Big Data.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 
